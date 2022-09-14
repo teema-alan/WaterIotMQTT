@@ -1,0 +1,338 @@
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\Data\Config.json
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\WaterIot.exe.config
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\WaterIot.exe
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\WaterIot.pdb
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.dll
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\MainWindow.g.cs
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\App.g.cs
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\App.baml
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\MainWindow.baml
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.g.resources
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.exe
+C:\Users\SCSA\source\repos\WaterIot\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\Data\Config.json
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2020\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\App.baml
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2020\WaterIot\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\Data\Config.json
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\App.baml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.1\WaterIot\obj\Debug\WaterIot.csprojResolveAssemblyReference.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Data\Config.json
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\App.baml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2020\P20006-水資源IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Data\Config.json
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.exe.config
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\WaterIot.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignColors.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Newtonsoft.Json.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignColors.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\bin\Debug\Newtonsoft.Json.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\MainWindow.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\App.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\App.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\MainWindow.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.g.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot V1.0.2\WaterIot\obj\Debug\WaterIot.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\Data\Config.json
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\WaterIot.exe.config
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\WaterIot.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\MaterialDesignColors.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\Newtonsoft.Json.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\MaterialDesignColors.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\bin\Debug\Newtonsoft.Json.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\MainWindow.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\App.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\App.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\MainWindow.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.g.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_0923_0939\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\Data\Config.json
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\WaterIot.exe.config
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\WaterIot.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\MaterialDesignColors.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\Newtonsoft.Json.dll
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\MaterialDesignColors.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\bin\Debug\Newtonsoft.Json.xml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\MainWindow.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\App.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\App.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\MainWindow.baml
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.g.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.exe
+F:\SCSA-2020\P20006-水利署IOT\P\WaterIot_2020_1007_1756\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\Data\Config.json
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\App.baml
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot_2020_1012_0952\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\Data\Config.json
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\App.baml
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot_2021_0401_0552\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2021\WaterIot\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\App.baml
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MQTTnet.dll
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2021\WaterIotNew\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\App.baml
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIotNew\WaterIot\obj\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.exe.config
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.pdb
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MQTTnet.dll
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csprojAssemblyReference.cache
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\MainWindow.g.cs
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\App.g.cs
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\App.baml
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\MainWindow.baml
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.g.resources
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.exe
+D:\SCSA-2021\WaterIot\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.pdb
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.exe.config
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.exe
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\WaterIot.pdb
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignColors.dll
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MQTTnet.dll
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\Newtonsoft.Json.dll
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignColors.pdb
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\bin\Debug\Newtonsoft.Json.xml
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.AssemblyReference.cache
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.SuggestedBindingRedirects.cache
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\MainWindow.g.cs
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\App.g.cs
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot_MarkupCompile.cache
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot_MarkupCompile.lref
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\App.baml
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\MainWindow.baml
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.g.resources
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.Properties.Resources.resources
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.GenerateResource.cache
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.CoreCompileInputs.cache
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.csproj.CopyComplete
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.exe
+D:\20210921-博士班資料\論文資料\20220819-陳樹全\WaterIotMQTT\WaterIot\obj\Debug\WaterIot.pdb

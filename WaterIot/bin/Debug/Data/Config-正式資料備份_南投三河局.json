@@ -1,0 +1,133 @@
+{
+  "ID": "ifem3",
+  "Password": "NT123",
+  "clientId": "c9OeU08DNFnoR+bkUwdEr4UGZHUhX8rh",
+  "clientSecret": "bS402lYhz5LJbx13Mwnkww==",
+  "AutoMode": false,
+  "FakeData": false,
+  "UploadInterval": 600,
+  "FloodingUploadInterval": 300,
+  "Devices": [
+    {
+      "DeviceID": 152,
+      "Records": [
+        {
+          "Guid": "3bd62f59-bde3-4b9b-913a-b9aab25e28f7",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-18T06:10:07"
+        }
+      ]
+    },
+    {
+      "DeviceID": 153,
+      "Records": [
+        {
+          "Guid": "ba8e03f3-fa41-41b5-8342-53b30e48c26d",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T18:59:13"
+        }
+      ]
+    },
+    {
+      "DeviceID": 154,
+      "Records": [
+        {
+          "Guid": "9fa1951f-d5a6-4c04-a02f-5c3db80e7f8a",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T19:05:24"
+        }
+      ]
+    },
+    {
+      "DeviceID": 155,
+      "Records": [
+        {
+          "Guid": "f6cda132-9dbe-4863-bcef-2519216c6fe9",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T18:57:33"
+        }
+      ]
+    },
+    {
+      "DeviceID": 156,
+      "Records": [
+        {
+          "Guid": "e9f33383-c7d6-43a5-b6c4-905601eca720",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-18T11:13:39"
+        }
+      ]
+    },
+    {
+      "DeviceID": 168,
+      "Records": [
+        {
+          "Guid": "09b3dd09-2661-4aff-9ef3-2ff3f2fe38dd",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T19:01:41"
+        }
+      ]
+    },
+    {
+      "DeviceID": 605,
+      "Records": [
+        {
+          "Guid": "36a6ff6c-0304-4c50-ae17-f32d15d16899",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T18:57:21"
+        }
+      ]
+    },
+    {
+      "DeviceID": 628,
+      "Records": [
+        {
+          "Guid": "a241adea-b9af-4e66-a3f7-7031685337e4",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T12:11:20"
+        }
+      ]
+    },
+    {
+      "DeviceID": 629,
+      "Records": [
+        {
+          "Guid": "0b3c92be-2c9e-42cf-ad81-7817c362b2e9",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T19:01:04"
+        }
+      ]
+    },
+    {
+      "DeviceID": 157,
+      "Records": [
+        {
+          "Guid": "c04a251a-e07e-448d-ad58-920d4636cffd",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T18:59:42"
+        }
+      ]
+    },
+    {
+      "DeviceID": 167,
+      "Records": [
+        {
+          "Guid": "3ed12253-05dc-41d1-8192-719fc48c40c7",
+          "Name": "water",
+          "Upload": true,
+          "LastUploadTime": "2020-08-20T19:00:31"
+        }
+      ]
+    }
+  ]
+}

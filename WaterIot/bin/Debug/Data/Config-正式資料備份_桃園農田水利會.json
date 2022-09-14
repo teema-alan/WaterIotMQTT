@@ -1,0 +1,496 @@
+{
+	"ID": "ifem1",
+	"Password": "ty123",
+	"clientId": "sgUm53TxhyPC86YM0efLe6oTqbIJmAUm+N9C5sg6gAM=",
+  	"clientSecret": "6h5GTkAhwMgZgmYYS0a6gg==",
+	"AutoMode": false,
+	"FakeData": false,
+	"UploadInterval": 600,
+	"FloodingUploadInterval": 300,
+	"Devices": [
+		{
+			"DeviceID": 706,
+			"Records": [
+				{
+					"Guid": "3a6c88f0-a17b-4f44-aff1-5899cf593033",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-18T06:10:07"
+				}
+			]
+		},
+		{
+			"DeviceID": 707,
+			"Records": [
+				{
+					"Guid": "7384eb67-45b4-4d6a-92c8-6985376661f4",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T18:59:13"
+				}
+			]
+		},
+		{
+			"DeviceID": 708,
+			"Records": [
+				{
+					"Guid": "76464608-5110-4358-b4ab-ffe901b21684",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:05:24"
+				}
+			]
+		},
+		{
+			"DeviceID": 709,
+			"Records": [
+				{
+					"Guid": "7bd765e9-606c-45c1-ad33-077e24cb5a42",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T18:57:33"
+				}
+			]
+		},
+		{
+			"DeviceID": 710,
+			"Records": [
+				{
+					"Guid": "86b6c636-cd73-4474-a75f-5e9b499d0e79",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-18T11:13:39"
+				}
+			]
+		},
+		{
+			"DeviceID": 715,
+			"Records": [
+				{
+					"Guid": "54869db0-b3df-47b6-837f-07b49a9ed0ee",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:01:41"
+				}
+			]
+		},
+		{
+			"DeviceID": 716,
+			"Records": [
+				{
+					"Guid": "db615d16-7865-4a9f-8d5a-278e5bbcc274",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T18:57:21"
+				}
+			]
+		},
+		{
+			"DeviceID": 717,
+			"Records": [
+				{
+					"Guid": "06d834dc-e66a-4cc5-b9be-f863eb05fe56",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T12:11:20"
+				}
+			]
+		},
+		{
+			"DeviceID": 718,
+			"Records": [
+				{
+					"Guid": "646c874b-47d5-4bb6-8688-d6adcc7e477c",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:01:04"
+				}
+			]
+		},
+		{
+			"DeviceID": 719,
+			"Records": [
+				{
+					"Guid": "9d984dbe-f2c6-477b-9e91-d8541e84a4ed",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T18:59:42"
+				}
+			]
+		},
+		{
+			"DeviceID": 720,
+			"Records": [
+				{
+					"Guid": "08f07cd2-f3d1-442e-9da6-622da3bc0aba",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 722,
+			"Records": [
+				{
+					"Guid": "ac587a93-aad3-4612-b4b8-4803198e05f6",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 723,
+			"Records": [
+				{
+					"Guid": "4cd92db9-b841-4228-b659-51f06dcc45c8",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 724,
+			"Records": [
+				{
+					"Guid": "b2e09da0-25dd-40bb-a6dd-742f410449a7",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 725,
+			"Records": [
+				{
+					"Guid": "4403e497-ee08-4326-b1bc-0c0f9215efc1",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 726,
+			"Records": [
+				{
+					"Guid": "77c4bdd9-710b-49af-bbe6-8e5e10dec03b",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 727,
+			"Records": [
+				{
+					"Guid": "f74d75d4-7b04-4787-b027-943d4320dc43",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 728,
+			"Records": [
+				{
+					"Guid": "58a85c19-ef48-41ce-801f-191e059eb911",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 729,
+			"Records": [
+				{
+					"Guid": "c7eb9c96-ae91-4af5-ac2b-7dc8ae13913d",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 730,
+			"Records": [
+				{
+					"Guid": "d2ed014d-c155-46a9-b604-e8d5e1d04ab4",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 731,
+			"Records": [
+				{
+					"Guid": "a80f339f-be22-4a91-9a07-53b288a61cde",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 732,
+			"Records": [
+				{
+					"Guid": "71808912-32b7-4683-ae32-1c9f6e3c2168",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 733,
+			"Records": [
+				{
+					"Guid": "b3c4ce95-f280-4f06-9b38-e9a9dcebb5d2",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 734,
+			"Records": [
+				{
+					"Guid": "95b64c83-8c49-429a-812a-55c91043b4f8",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 735,
+			"Records": [
+				{
+					"Guid": "0512baa3-7e7f-4d97-94bc-0da80f40ffa6",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 736,
+			"Records": [
+				{
+					"Guid": "36d5adb4-e8e7-4c7c-9805-d6d05325c0ba",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 737,
+			"Records": [
+				{
+					"Guid": "5b1aa9b6-d12e-43fb-a70d-3a61da9e9510",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 738,
+			"Records": [
+				{
+					"Guid": "9faecdb7-b416-46fa-af63-f7091fb3cadc",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 739,
+			"Records": [
+				{
+					"Guid": "f3330022-6de5-4c53-9258-96f2bdecf51d",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 740,
+			"Records": [
+				{
+					"Guid": "b940302a-4920-4f2c-b64e-64dc19d33d07",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 741,
+			"Records": [
+				{
+					"Guid": "e6e45bfb-977b-47e3-b926-4f45ca372b9e",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 742,
+			"Records": [
+				{
+					"Guid": "859758fa-1af8-4b7d-aeb0-db442c416d76",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 743,
+			"Records": [
+				{
+					"Guid": "5b98373e-702e-42f0-93a3-ccb352779310",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 744,
+			"Records": [
+				{
+					"Guid": "29129561-9597-459b-81be-4a55b594e44f",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 745,
+			"Records": [
+				{
+					"Guid": "7d833041-d713-4def-8f71-caf7bae6c932",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 746,
+			"Records": [
+				{
+					"Guid": "eed36495-d213-4972-a2eb-fd5179b6f21d",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 747,
+			"Records": [
+				{
+					"Guid": "27b7a286-1af5-471e-9a20-a60003ead29c",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 748,
+			"Records": [
+				{
+					"Guid": "9a9737cc-6811-46d8-b8d9-d731068a7a00",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 749,
+			"Records": [
+				{
+					"Guid": "1782ffb6-13e5-4a2d-b3e1-c880b096254d",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 750,
+			"Records": [
+				{
+					"Guid": "7cddd32d-3212-4780-b622-fbf9bc2f920a",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 751,
+			"Records": [
+				{
+					"Guid": "2ef20a48-c865-4fc4-b058-7a6ad4efa1ca",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 752,
+			"Records": [
+				{
+					"Guid": "4cbc41b1-225d-46e2-a72d-ff0fa59b437c",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 842,
+			"Records": [
+				{
+					"Guid": "2a41ed1b-1093-4f64-89e1-1fcd27a50652",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		},
+		{
+			"DeviceID": 843,
+			"Records": [
+				{
+					"Guid": "0cbc56c7-d235-4493-b6b6-c2901271890f",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T19:00:31"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"ID": "ifem12",
+	"Password": "ht123",
+	"clientId": "sgUm53TxhyPC86YM0efLe6oTqbIJmAUm+N9C5sg6gAM=",
+  	"clientSecret": "6h5GTkAhwMgZgmYYS0a6gg==",
+	"AutoMode": false,
+	"FakeData": false,
+	"UploadInterval": 600,
+	"FloodingUploadInterval": 300,
+	"UploadType": 1,
+    "Topic": "TESL/1906/scsa/water",
+	"Devices": [
+		{
+			"DeviceID": 917,
+			"Records": [
+				{
+					"Guid": "3a6c88f0-a17b-4f44-aff1-5899cf593033",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-18T06:10:07"
+				}
+			]
+		},
+		{
+			"DeviceID": 918,
+			"Records": [
+				{
+					"Guid": "7384eb67-45b4-4d6a-92c8-6985376661f4",
+					"Name": "water",
+					"Upload": true,
+					"LastUploadTime": "2020-08-20T18:59:13"
+				}
+			]
+		}
+	]
+}
